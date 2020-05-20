@@ -2,50 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5dfc0d9-a003-443f-b8dc-8b0a23b66e86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Catalogo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Catalogo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sitcatalogo.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sitcatalogo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/baco.html" beforeDir="false" afterPath="$PROJECT_DIR$/baco.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bdw.html" beforeDir="false" afterPath="$PROJECT_DIR$/bdw.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulbo.html" beforeDir="false" afterPath="$PROJECT_DIR$/bulbo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/designprocess.html" beforeDir="false" afterPath="$PROJECT_DIR$/designprocess.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/poster.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/sign.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/skills.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/Archstudio3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/BacoP1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/Breakfast 2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/Edoardo_Soggiorno.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/Edoardo_cucina.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/IMG_20180118_160222.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/Mood.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/aRCHSTUDIO.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/archstudio2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/archstudio2ok.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/archstudio2ok.jpg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/baco1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/bdw3bb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/camera.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/catalogo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/chatblanc1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/chatblanc2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/corridoio PT2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/render.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/render1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/render1filter.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/render1filter2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/task.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/trapezio2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/trapezio2_bn.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/villa1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/works/villa2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobile-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/mobile-logo@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/Bacop2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/SediaGirevole1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/Tesi3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/arch.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/arch2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/arch3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/arch5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/archbn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/archbn2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/archsito1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/bacoworks3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/bdw2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/bdw2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/bulbo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/catsitpage.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/chatblanc2@300x-8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/cop tesi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/essicatore.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/sitmatic1 (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/works/vista parete libre.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/zoom.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/zoom@2x.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheets/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/viner.html" beforeDir="false" afterPath="$PROJECT_DIR$/viner.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -61,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="417">
-              <caret line="95" column="125" lean-forward="true" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="125" />
+            <state relative-caret-position="332">
+              <caret line="121" column="84" selection-start-line="121" selection-start-column="84" selection-end-line="121" selection-end-column="84" />
               <folding>
                 <element signature="e#46#123#0" />
               </folding>
@@ -71,19 +55,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elements/css/elements.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="1068" column="4996" lean-forward="true" selection-start-line="1068" selection-start-column="4996" selection-end-line="1068" selection-end-column="4996" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="-136">
               <caret line="96" column="127" selection-start-line="96" selection-start-column="127" selection-end-line="96" selection-end-column="127" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baco.html">
+        <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="95" column="127" selection-start-line="95" selection-start-column="127" selection-end-line="95" selection-end-column="127" />
+            <state relative-caret-position="1178">
+              <caret line="89" column="12" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/stylesheets/main-responsive.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -91,8 +93,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bdw.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="95" column="127" selection-start-line="95" selection-start-column="127" selection-end-line="95" selection-end-column="127" />
+            <state relative-caret-position="102">
+              <caret line="165" column="82" selection-start-line="165" selection-start-column="82" selection-end-line="165" selection-end-column="82" />
               <folding>
                 <element signature="e#46#123#0" />
                 <element signature="n#div#0;n#section#1;n#head#0;n#html#0;n#!!top" />
@@ -105,10 +107,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bulbo.html">
+        <entry file="file://$PROJECT_DIR$/baco.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="95" column="127" selection-start-line="95" selection-start-column="127" selection-end-line="95" selection-end-column="127" />
+            <state relative-caret-position="-578">
+              <caret line="121" column="88" selection-start-line="121" selection-start-column="88" selection-end-line="121" selection-end-column="88" />
             </state>
           </provider>
         </entry>
@@ -131,10 +133,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/viner.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="323">
               <caret line="95" column="127" selection-start-line="95" selection-start-column="127" selection-end-line="95" selection-end-column="127" />
             </state>
           </provider>
@@ -151,7 +153,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>work-filter</find>
       <find>li</find>
       <find>works-filter</find>
       <find>line</find>
@@ -180,6 +181,7 @@
       <find>works-item-inner</find>
       <find>mobile</find>
       <find>min</find>
+      <find>thumbana</find>
       <find>loader</find>
     </findStrings>
   </component>
@@ -203,20 +205,20 @@
         <option value="$PROJECT_DIR$/about02.html" />
         <option value="$PROJECT_DIR$/stylesheets/venobox.css" />
         <option value="$PROJECT_DIR$/works03.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/stylesheets/main.css" />
         <option value="$PROJECT_DIR$/Sitcatalogo.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/baco.html" />
-        <option value="$PROJECT_DIR$/bdw.html" />
         <option value="$PROJECT_DIR$/bulbo.html" />
         <option value="$PROJECT_DIR$/Catalogo.html" />
         <option value="$PROJECT_DIR$/designprocess.html" />
         <option value="$PROJECT_DIR$/viner.html" />
+        <option value="$PROJECT_DIR$/baco.html" />
+        <option value="$PROJECT_DIR$/bdw.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -323,12 +325,12 @@
       <workItem from="1588633372883" duration="808000" />
       <workItem from="1589908005866" duration="1809000" />
       <workItem from="1589929742690" duration="646000" />
-      <workItem from="1589979300650" duration="1342000" />
+      <workItem from="1589979300650" duration="3687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77599000" />
+    <option name="totallyTimeSpent" value="79944000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -340,7 +342,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
@@ -354,7 +356,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -371,10 +373,10 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3286119" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -544,27 +546,6 @@
     <entry file="file://$PROJECT_DIR$/post.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/elements/css/elements.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4420">
-          <caret line="260" column="51" selection-start-line="260" selection-start-column="45" selection-end-line="260" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17950">
-          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/main-responsive.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-510">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/arch.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
@@ -579,44 +560,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
           <caret line="226" selection-start-line="226" selection-end-line="226" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="95" column="125" lean-forward="true" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="125" />
-          <folding>
-            <element signature="e#46#123#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="96" column="127" selection-start-line="96" selection-start-column="127" selection-end-line="96" selection-end-column="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baco.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="95" column="127" selection-start-line="95" selection-start-column="127" selection-end-line="95" selection-end-column="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bdw.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="95" column="127" selection-start-line="95" selection-start-column="127" selection-end-line="95" selection-end-column="127" />
-          <folding>
-            <element signature="e#46#123#0" />
-            <element signature="n#div#0;n#section#1;n#head#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#header#0;n#head#0;n#html#0;n#!!top" />
-            <element signature="n#li#0;n#ul#0;n#nav#0;n#article#0;n#div#0;n#header#0;n#head#0;n#html#0;n#!!top" />
-            <element signature="n#ul#0;n#div#0;n#article#1;n#div#0;n#header#0;n#head#0;n#html#0;n#!!top" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -650,8 +593,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/viner.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="323">
           <caret line="95" column="127" selection-start-line="95" selection-start-column="127" selection-end-line="95" selection-end-column="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/main-responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements/css/elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="1068" column="4996" lean-forward="true" selection-start-line="1068" selection-start-column="4996" selection-end-line="1068" selection-end-column="4996" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="89" column="12" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baco.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-578">
+          <caret line="121" column="88" selection-start-line="121" selection-start-column="88" selection-end-line="121" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bdw.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="165" column="82" selection-start-line="165" selection-start-column="82" selection-end-line="165" selection-end-column="82" />
+          <folding>
+            <element signature="e#46#123#0" />
+            <element signature="n#div#0;n#section#1;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#header#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#nav#0;n#article#0;n#div#0;n#header#0;n#head#0;n#html#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#article#1;n#div#0;n#header#0;n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="121" column="84" selection-start-line="121" selection-start-column="84" selection-end-line="121" selection-end-column="84" />
+          <folding>
+            <element signature="e#46#123#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="96" column="127" selection-start-line="96" selection-start-column="127" selection-end-line="96" selection-end-column="127" />
         </state>
       </provider>
     </entry>
